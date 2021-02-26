@@ -1,0 +1,7 @@
+00:01:31 INFO Logging in with username 32p101041
+00:01:45 INFO Selecting date 2021-03-04 (6 days from now).
+00:01:55 INFO Loading {element_name} took too much time!
+00:01:56 INFO Attempting to book slot 1 on 2021-03-04
+00:01:56 INFO ==== Attempt # 1 ====
+00:01:56 INFO Agreeing to terms
+00:02:06 INFO Loading {element_name} took too much time!

@@ -514,3 +514,208 @@ JavaScript warning: https://platform.vixyvideo.com/p/491/sp/49100/embedIframeJs/
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1614311342782	geckodriver	INFO	Listening on 127.0.0.1:52618
+1614311350127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofileUYK3gX"
+1614311351825	Marionette	INFO	Listening on port 52629
+1614311352204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614311352216	Marionette	ERROR	[15] No reply from Marionette:Register
+1614311352787	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1161053954, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1161053954, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1161053954 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=622176194, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=622176194, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=622176194, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=622176194 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=622176194 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://platform.vixyvideo.com/p/491/sp/49100/embedIframeJs/uiconf_id/23453897/partner_id/491, line 22: unreachable code after return statement
+[Parent 7504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1614311378670	Marionette	INFO	Stopped listening on port 52629
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614311455285	geckodriver	INFO	Listening on 127.0.0.1:52772
+1614311462834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofilexXND6o"
+1614311464331	Marionette	INFO	Listening on port 52783
+1614311464411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614311464425	Marionette	ERROR	[15] No reply from Marionette:Register
+1614311465018	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1673317515, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1673317515, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1673317515 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1371491944, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1371491944, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1371491944, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1371491944 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1371491944 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://platform.vixyvideo.com/p/491/sp/49100/embedIframeJs/uiconf_id/23453897/partner_id/491, line 22: unreachable code after return statement
+1614311487409	Marionette	INFO	Stopped listening on port 52783
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614311605720	geckodriver	INFO	Listening on 127.0.0.1:53537
+1614311613096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofileXrUbOQ"
+1614311614483	Marionette	INFO	Listening on port 53584
+1614311614639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614311614655	Marionette	ERROR	[15] No reply from Marionette:Register
+1614311615222	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=977583598, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=977583598, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=977583598, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=977583598 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=977583598 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=589921888, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=589921888, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=589921888, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=589921888 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=589921888 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://platform.vixyvideo.com/p/491/sp/49100/embedIframeJs/uiconf_id/23453897/partner_id/491, line 22: unreachable code after return statement
+1614311644949	Marionette	INFO	Stopped listening on port 53584
+1614311907082	geckodriver	INFO	Listening on 127.0.0.1:54935
+1614311914810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofilejyW4ST"
+1614311916338	Marionette	INFO	Listening on port 54946
+1614311916855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614311916871	Marionette	ERROR	[15] No reply from Marionette:Register
+1614311917479	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1782725846, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1782725846, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1782725846, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1782725846 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1782725846 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=354198831, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=354198831, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=354198831, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=354198831 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=354198831 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://platform.vixyvideo.com/p/491/sp/49100/embedIframeJs/uiconf_id/23453897/partner_id/491, line 22: unreachable code after return statement
+1614312077165	Marionette	INFO	Stopped listening on port 54941614312077295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofileAYuFlV"
+1614312078769	Marionette	INFO	Listening on port 55141
+1614312078842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614312078858	Marionette	ERROR	[15] No reply from Marionette:Register
+1614312079446	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1896952351, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1896952351, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1896952351 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=478320831, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=478320831, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=478320831 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://platform.vixyvideo.com/p/491/sp/49100/embedIframeJs/uiconf_id/23453897/partner_id/491, line 22: unreachable code after return statement
+[Parent 22916, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1614312130158	Marionette	INFO	Stopped listening on port 55141
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614312511125	geckodriver	INFO	Listening on 127.0.0.1:57430
+1614312518520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofiletLSgaz"
+1614312520113	Marionette	INFO	Listening on port 57482
+1614312520595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614312520612	Marionette	ERROR	[15] No reply from Marionette:Register
+1614312521191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=48087268, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=48087268, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=48087268, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=48087268 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=48087268 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2087151900, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2087151900, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2087151900, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2087151900 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2087151900 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://platform.vixyvideo.com/p/491/sp/49100/embedIframeJs/uiconf_id/23453897/partner_id/491, line 22: unreachable code after return statement
+1614312544374	Marionette	INFO	Stopped listening on port 57482
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614312631505	geckodriver	INFO	Listening on 127.0.0.1:58348
+1614312638836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofileUsfALT"
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1614312640126	Marionette	INFO	Listening on port 58403
+1614312640380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614312640394	Marionette	ERROR	[15] No reply from Marionette:Register
+1614312640973	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=234254538, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=234254538, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=234254538 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=234254538 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472015585, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472015585, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472015585, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472015585 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472015585 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://platform.vixyvideo.com/p/491/sp/49100/embedIframeJs/uiconf_id/23453897/partner_id/491, line 22: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614313837741	geckodriver	INFO	Listening on 127.0.0.1:63876
+1614313845334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofileCYyfrK"
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1614313846765	Marionette	INFO	Listening on port 63886
+1614313846875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614313846887	Marionette	ERROR	[15] No reply from Marionette:Register
+1614313847558	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=58715429, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=58715429, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=58715429, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=58715429 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=58715429 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1229330496, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1229330496, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1229330496, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1229330496 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1229330496 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://platform.vixyvideo.com/p/491/sp/49100/embedIframeJs/uiconf_id/23453897/partner_id/491, line 22: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614315681230	geckodriver	INFO	Listening on 127.0.0.1:55917
+1614315688924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofileTNzLWX"
+1614315690401	Marionette	INFO	Listening on port 55974
+1614315690488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614315690500	Marionette	ERROR	[15] No reply from Marionette:Register
+1614315691123	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=449164055, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=449164055, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=449164055, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=449164055 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=449164055 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.goodlifefitness.com/etc.client1614315706084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614316273311	Marionette	INFO	Stopped listening on port 55974
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e	ERROR	[15] No reply from Marionette:Register
+1614315708204	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsu1614315732938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mwies\\AppData\\Local\\Temp\\rust_mozprofileI2MoaY"
+1614315734375	Marionette	INFO	Listening on port 56341
+1614315734490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614315734500	Marionette	ERROR	[15] No reply from Marionette:Register
+1614315735487	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1948950419, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1948950419 line 1 >console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 24960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1614316264032	Marionette	INFO	Stopped listening on port 56129
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ listening on port 56341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e	ERROR	[15] No reply from Marionette:Register
+1614315748286	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1757150845, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1757150845, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1757150845 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.goodlifefitness.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=19&cb=1757150845 line 1 > eval, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 27600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1614316251622	Marionette	INFO	Stopped listening on port 56484
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

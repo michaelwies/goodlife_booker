@@ -17,7 +17,14 @@ from selenium.webdriver.firefox.options import Options
 class BookingException(Exception):
     pass
 
-logging.basicConfig(level=logging.INFO)
+start_ts = datetime.now()
+start_ts_str = start_ts.strftime('%Y%m%d_%H%M%S')
+logging.basicConfig(filename=str('logs/' + start_ts_str + '.log'),
+                            filemode='a',
+                            format='%(asctime)s %(levelname)s %(message)s',
+                            datefmt='%H:%M:%S',
+                            level=logging.INFO)
+
 
 load_dotenv()
 GOODLIFE_USERNAME = os.getenv('GOODLIFE_USERNAME')
@@ -31,7 +38,7 @@ def wait_for_element_by(browser, element_name, element_type, waitsecs):
     try:
         WebDriverWait(browser, waitsecs).until(EC.presence_of_element_located((element_type, element_name)))
     except TimeoutException:
-        print ("Loading {element_name} took too much time!")
+        logging.info ("Loading {element_name} took too much time!")
 
 def book_gym_session(browser, day, time, slot):
     # navigate to login page
@@ -59,7 +66,7 @@ def book_gym_session(browser, day, time, slot):
     sleep(2) #arbitrary pause for page load
 
     # select date x days from now
-    days_from_now = datetime.now() + timedelta(days=day)
+    days_from_now = start_ts + timedelta(days=day)
     days_from_now = days_from_now.strftime('%Y-%m-%d')
     dayIndex = day
     slotIndex = slot-1
@@ -69,15 +76,15 @@ def book_gym_session(browser, day, time, slot):
     wait_for_element_by(browser, 'js-class-weekday', By.CLASS_NAME, 10)
     # Load the tabs element
     dateTabLinks = browser.find_elements_by_class_name('js-class-weekday')
-    print("# of DateTabLinks: "+str(len(dateTabLinks)))
     # Click the n-th tab (zero-indexed)
     dateTabLinks[dayIndex].click()
 
     # select appropriate session to book
-    logging.info(f'Selecting 0th Workout on {days_from_now}')
     dayDivID = 'day-number-'+str(day+1)
     wait_for_element_by(browser, dayDivID, By.ID, 10)
     dayDiv =  browser.find_element_by_id(dayDivID)
+
+    ########## TOUBLESHOOTING
     print("======   dayDiv   =====")
     print('class: '+dayDiv.get_attribute('class'))
     print('data-index: '+dayDiv.get_attribute('data-index'))
@@ -89,14 +96,16 @@ def book_gym_session(browser, day, time, slot):
     print('data-workout-id: '+RegistrationButtons[slotIndex].get_attribute('data-workout-id'))
     print("=======================")
     print("# Registration Buttons Found: "+str(len(RegistrationButtons)))
+    ##########################
 
     # Stay in this loop while the "data-class-action" of the button is something other than cancel.
     # Once it's 'cancel-class' that means the class is booked, so we'll skip the loop and exit
     dataClassAction = RegistrationButtons[slotIndex].get_attribute('data-class-action')
     attempt = 0
+    logging.info(f'Attempting to book slot {slot} on {days_from_now}')
     while dataClassAction != 'cancel-class' and attempt < 5:
-        logging.info(f'Attempting to book slot {slot} on {days_from_now}')
         attempt = attempt + 1
+        logging.info(f'==== Attempt # {attempt} ====')
         #Click the register button
         RegistrationButtons[slotIndex].click()
         # accept code of conduct
